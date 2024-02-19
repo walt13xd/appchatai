@@ -1,0 +1,20 @@
+{
+  "name": "appchatai-server",
+  "version": "1.0.0",
+  "description": "Aplicação de Sistema de vendas com Bot ChatGPT integrado ao Whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js localhost 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walt13xd/appchatai.git"
+  },
+  "author": "Walter Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walt13xd/appchatai/issues"
+  },
+  "homepage": "https://github.com/walt13xd/appchatai#readme"
+}
